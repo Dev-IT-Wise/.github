@@ -51,17 +51,17 @@
 
 Here we publish our public tools, drivers, and automation templates.
 
-### 🔹 [Project Name / Driver Title]
-> *Status: Active / Maintenance / Archived*
+### 🔹 Cursor-ai-zephyr-rtos-plugin 
+> Status: Active
 
 **Description:**
-A concise description of what this tool does. For example: "A custom Zephyr RTOS driver for industrial sensors with optimized power consumption."
+Your AI assistant for Zephyr RTOS. Cursor plugin with rules, commands, and best practices for embedded — less doc hunting, more coding
 
 **Tech Stack:**
 `C` `Zephyr RTOS` `ARM Cortex-M`
 
 **Quick Links:**
-[View Documentation](./) | [Live Demo](https://devitwise.com) | [Report Bug](./issues)
+[Repo](https://github.com/Dev-IT-Wise/cursor-ai-zephyr-rtos-plugin?tab=readme-ov-file) 
 
 <br />
 
