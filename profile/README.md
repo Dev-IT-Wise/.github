@@ -72,6 +72,30 @@ ready for investors.
 
 </td>
 </tr>
+<tr>
+<td align="center" colspan="2">
+<br/>
+
+**🤖 AI Developer Enablement**
+
+Strategic AI adoption.<br/>
+We onboard teams to use LLMs & AI tools<br/>
+**rationally and responsibly**—<br/>
+maximizing productivity without losing code quality.
+
+</td>
+<td align="center" colspan="2">
+<br/>
+
+**🧠 Workflow Optimization**
+
+Smarter engineering practices.<br/>
+Custom Cursor AI rules, prompts,<br/>
+and **proven patterns**<br/>
+for your tech stack.
+
+</td>
+</tr>
 </table>
 </div>
 
