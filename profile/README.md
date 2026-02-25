@@ -129,6 +129,17 @@ ready for investors.
 
 <br/>
 
+### 🤖 cursor-ai-example-workflow
+
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-4ade80?style=flat-square&labelColor=0a0a12)
+![Stack](https://img.shields.io/badge/Cursor_AI_%7C_Workflow-0284c7?style=flat-square&labelColor=0a0a12)
+
+> Example workflows and best practices for integrating Cursor AI into development pipelines. Templates and configurations for accelerated engineering workflows.
+
+**→ [View Repository](https://github.com/Dev-IT-Wise/cursor-ai-example-workflow)**
+
+<br/>
+
 ---
 
 ## 🔒 Why Devitwise
